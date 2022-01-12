@@ -237,6 +237,24 @@ Useful articles and learning resources.
 
 </details>
 
+
+<details>
+  <summary>
+    📹 Youtube Channels
+  </summary>
+
+<br />
+
+- [Joma Tech](https://www.youtube.com/c/JomaOppa)
+- [John Hammon](https://www.youtube.com/c/JohnHammond010)
+- [Data Professor](https://www.youtube.com/c/DataProfessor)
+- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
+- [CoderCoder](https://www.youtube.com/c/TheCoderCoder)
+
+</details>
+
+
+
 <details>
   <summary>
     🎙 Podcasts
